@@ -1,0 +1,216 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* Basic CSS */
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+body{
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Raleway', sans-serif;
+}
+p{
+	margin: 0;
+}
+
+/*Top-header Section css */
+.top-header{}
+.top-hed-con{}
+.top-hed-con p{}
+.top-hed-menu{}
+.top-hed-menu ul{}
+.top-hed-menu ul li{}
+.top-hed-menu ul li a{}
+.top-hed-menu ul li a:hover{}
+
+
+/* Header Section css */
+header{}
+.header-section{}
+.header-section nav{}
+.header-section nav a{}
+.header-section nav a img{}
+
+.header-section nav ul{}
+.header-section nav ul li{}
+.header-section nav ul li a{}
+.header-section nav ul li a:hover{}
+
+
+/* Banner Section css */
+.banner-section{}
+.banner-section img{}
+
+.banner-section h1{}
+.banner-contend{}
+.banner-contend h5{}
+.banner-contend h6{}
+
+.banner-section nav{}
+.banner-section ul{}
+.banner-section ul li{}
+.banner-section ul li a{}
+.banner-section ul li a:hover{}
+.banner-section .btn-custom{}
+
+
+/* Feature Section css */
+.feature-section{}
+.feature{}
+.feature img{}
+.feature h3{}
+.feature p{}
+
+/* Service Section css */
+.service-section{}
+
+.content-header{}
+.content-header h1{}
+.content-header p{}
+.content-header .border{}
+
+.service{}
+.service img{}
+.service h3{}
+.service p{}
+
+.service-section button .btn-danger{}
+
+/* Steps Section css */
+.steps-section{}
+
+.step-img{}
+.step-img img{}
+
+.steps{}
+.steps span{}
+.steps h3{}
+.steps p{}
+
+
+/* Count Section css */
+.count-section{}
+.count-contend{}
+.count-contend h2{}
+.count-contend h5{}
+
+/* Support Section css */
+.support-section{}
+.suport-img{}
+.suport-img img{}
+
+.suport-item1{}
+.suport-item1 samp{}
+.suport-item1 h4{}
+
+.suport-item2{}
+.suport-item2 samp{}
+.suport-item2 h4{}
+
+.suport-item3{}
+.suport-item3 samp{}
+.suport-item3 h4{}
+
+.suport-item4{}
+.suport-item4 samp{}
+.suport-item4 h4{}
+
+.suport-item5{}
+.suport-item5 samp{}
+.suport-item5 h4{}
+
+.suport-item6{}
+.suport-item6 samp{}
+.suport-item6 h4{}
+
+/* Team Section css */
+.team-section{}
+.team-section .border{}
+.team{}
+.team img{}
+.team h5{}
+.team p{}
+
+/* Consultation Section css */
+.consultation-section{}
+.consultation-section input{}
+.consultation-section textarea{}
+
+.consulation-btn{}
+.consulation-btn button{}
+.consulation-btn button .btn-warning{}
+.consulation-btn.btn-warning:hover{}
+
+/* Bloge Section css */
+.bloge-section{}
+.bloge-section .card{}
+.bloge-section .card img{}
+
+.bloge-section .card-body{}
+.bloge-section .card-body a{}
+
+.bloge-section .card-body h5{}
+.bloge-section .card-body p{}
+
+/* Feedback Section css */
+.feedback-section{}
+.carousel-item{}
+.carousel-item p{}
+.carousel-item img{}
+.carousel-item h3{}
+.carousel-item h6{}
+
+/* Footer-top Section css */
+.footertop-section{}
+.top{}
+
+.top-hed{}
+.top-hed img{}
+.top-con{}
+.top-con p{}
+.top-icon{}
+.top-icon ul{}
+.top-icon ul li{}
+.top-icon ul li a{}
+.top-icon ul li a i{}
+.top-icon ul li a i:hover{}
+
+.top-hed h3{}
+.border{}
+.top-co{}
+.hed-icon{}
+.hed-icon ul{}
+.hed-icon ul li{}
+.hed-icon ul li a{}
+.hed-icon ul li a i{}
+
+.hed-con{}
+.hed-con h6{}
+.hed-con h5{}
+.hed-con p{}
+
+.top-menu{}
+.top-menu ul{}
+.top-menu ul li{}
+.top-menu ul li a{}
+
+.last-con{}
+.last-con p{}
+.last-search{}
+.last-search form{}
+.last-search form input{}
+
+
+/* Footer Section css */
+.footer-section{}
+.footer-section p{}
+
+.footer-menu{}
+.footer-menu ul{}
+.footer-menu ul li{}
+.footer-menu ul li a{}
+
